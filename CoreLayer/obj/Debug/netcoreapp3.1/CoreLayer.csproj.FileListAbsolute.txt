@@ -1,0 +1,9 @@
+D:\testingPro\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.AssemblyInfoInputs.cache
+D:\testingPro\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.AssemblyInfo.cs
+D:\testingPro\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.csproj.CoreCompileInputs.cache
+D:\testingPro\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.deps.json
+D:\testingPro\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.dll
+D:\testingPro\CoreLayer\bin\Debug\netcoreapp3.1\CoreLayer.pdb
+D:\testingPro\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.dll
+D:\testingPro\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.pdb
+D:\testingPro\CoreLayer\obj\Debug\netcoreapp3.1\CoreLayer.csprojAssemblyReference.cache

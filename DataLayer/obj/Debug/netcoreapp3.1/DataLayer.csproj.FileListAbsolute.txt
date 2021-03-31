@@ -1,0 +1,12 @@
+D:\testingPro\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+D:\testingPro\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.json
+D:\testingPro\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.runtimeconfig.dev.json
+D:\testingPro\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+D:\testingPro\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csproj.CoreCompileInputs.cache
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+D:\testingPro\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.genruntimeconfig.cache
