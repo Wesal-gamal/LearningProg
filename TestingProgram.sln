@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingProgram", "TestingProgram.csproj", "{92C8E5E8-F389-4752-BD38-6F4469E66751}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLayer", "..\DataLayer\DataLayer.csproj", "{7182C54F-F232-4215-9047-9204337884EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoreLayer", "..\CoreLayer\CoreLayer.csproj", "{7139D7CB-85FD-4840-A5BD-B1187579B6B8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92C8E5E8-F389-4752-BD38-6F4469E66751}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92C8E5E8-F389-4752-BD38-6F4469E66751}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92C8E5E8-F389-4752-BD38-6F4469E66751}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{92C8E5E8-F389-4752-BD38-6F4469E66751}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7182C54F-F232-4215-9047-9204337884EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7182C54F-F232-4215-9047-9204337884EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7182C54F-F232-4215-9047-9204337884EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7182C54F-F232-4215-9047-9204337884EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7139D7CB-85FD-4840-A5BD-B1187579B6B8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7139D7CB-85FD-4840-A5BD-B1187579B6B8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7139D7CB-85FD-4840-A5BD-B1187579B6B8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7139D7CB-85FD-4840-A5BD-B1187579B6B8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0574FA6E-E1C6-4268-9DEA-FE7250948834}
+	EndGlobalSection
+EndGlobal
